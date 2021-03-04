@@ -4,7 +4,7 @@
 - 制定slogan：**cblb.app，一个好用又没什么用的Dapp**
 
 >2021/03/04 数据章节coin360.com  
-![](img/20210304.png)
+![](https://raw.githubusercontent.com/cblber/cblb-app-progress/master/img/20210304.png)
 
 ## 2021.2
 
